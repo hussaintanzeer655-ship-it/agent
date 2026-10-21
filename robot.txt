@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hussaintanzeer655-ship-it.github.io/sitemap.xml
